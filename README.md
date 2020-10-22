@@ -1,2 +1,2 @@
 # ProjectEuler
-It contians my programs  for ProjectEuler on Hackerearth
+It contains my programs  for ProjectEuler on Hackerrank.
